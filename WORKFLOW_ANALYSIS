@@ -8,4 +8,4 @@ D. Ensure the environment is correct for the code deployment
 
 E. It makes the deployment process consisent so no steps are missed and deployment is alwasy the same.
 
-F. It could overwrite someone elses work, or they could overwrite yours. It would cause confusion which can mess up the processes of branches reconnection to the main. Could cause double work.
+F. It could overwrite someone elses work, or they could overwrite yours. It would cause confusion which can mess up the processes of branches reconnection to the main.
