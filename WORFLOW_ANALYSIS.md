@@ -1,6 +1,11 @@
-A. It runs when code is pushed or pulled from the main branch
+A. It runs when code is pushed or pulled from the main branch. 
+
 B. 1. Get code from repository 2. Validate HTML files 3. Check for broken lines 4. Upload the build site for deployment
+
 C. It gets the code from the repository, it is necessary to begin. 
+
 D. Ensure the environment is correct for the code deployment
+
 E. It makes the deployment process consisent so no steps are missed and deployment is alwasy the same. 
+
 F. It could overwrite someone elses work, or they could overwrite yours. It would cause confusion which can mess up the processes of branches reconnection to the main.
