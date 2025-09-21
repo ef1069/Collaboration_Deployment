@@ -86,4 +86,6 @@ This project is for educational purposes.
 
 ---
 
+[![Deploy to GitHub Pages](https://github.com/ef1069/Collaboration_Deployment/actions/workflows/deploy.yml/badge.svg)](https://github.com/ef1069/Collaboration_Deployment/actions/workflows/deploy.yml)
+
 *Built with ❤️ by the TechFlow Solutions team*
